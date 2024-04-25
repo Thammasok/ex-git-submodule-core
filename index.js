@@ -1,3 +1,5 @@
 const main = () => {
-  print('Hello Core!');
+  console.log('Hello Core!');
 }
+
+main();
