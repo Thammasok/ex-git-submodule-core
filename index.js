@@ -9,7 +9,7 @@ const main = () => {
   console.log(text);
 
   // call from module a
-  const result = moduleA.add(1,3);
+  const result = moduleA.sum(1,3);
   console.log(result);
 }
 
