@@ -1,8 +1,0 @@
-[submodule "ex-git-submodule-a"]
-	path = ex-git-submodule-a
-	url = https://github.com/Thammasok/ex-git-submodule-a
-	branch = main
-[submodule "ex-git-submodule-b"]
-	path = ex-git-submodule-b
-	url = https://github.com/Thammasok/ex-git-submodule-b
-	branch = main
