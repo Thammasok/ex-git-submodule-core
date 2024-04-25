@@ -1,10 +1,3 @@
-
-[submodule "modules/ex-git-submodule-a"]
-	path = src/modules/ex-git-submodule-a
-	url = https://github.com/Thammasok/ex-git-submodule-a
-[submodule "modules/ex-git-submodule-a"]
-	path = modules/ex-git-submodule-a
-	url = https://github.com/Thammasok/ex-git-submodule-a
 [submodule "ex-git-submodule-a"]
 	path = ex-git-submodule-a
 	url = https://github.com/Thammasok/ex-git-submodule-a
